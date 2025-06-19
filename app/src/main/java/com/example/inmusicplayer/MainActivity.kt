@@ -1,7 +1,7 @@
 // Student Number:ST10461558
 // Full Name: Kholofelo Tiisetso Nokuthula Moteno
 
-package com.example.
+package com.example.inmusicplayer
 
 import android.annotation.SuppressLint
 import android.app.AlertDialog
@@ -9,7 +9,6 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.example.inmusicplayer.R
 import com.example.inmusicplayer.ui.theme.DetailActivity
 
 class MainActivity : AppCompatActivity() {

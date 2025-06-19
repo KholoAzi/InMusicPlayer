@@ -1,11 +1,11 @@
-package com.example.musicaapp.ui.theme
+package com.example.inmusicplayer.ui.theme
 
 import android.annotation.SuppressLint
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.example.musicaapp.MainActivity
-import com.example.musicaapp.R
+import com.example.inmusicplayer.MainActivity
+import com.example.inmusicplayer.R
 
 class DetailActivity : AppCompatActivity() {
 

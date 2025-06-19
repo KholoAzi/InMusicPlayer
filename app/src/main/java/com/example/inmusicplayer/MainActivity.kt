@@ -9,7 +9,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.example.musicaapp.ui.theme.DetailActivity
+import com.example.inmusicplayer.ui.theme.DetailActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showAddDialog() {
+        val layoutInflater = null
         val dialogLayout = layoutInflater.inflate(R.layout.dialog_add_song, null)
         val edtTitle = dialogLayout.findViewById<EditText>(R.id.edtSongTitle)
         val edtArtist = dialogLayout.findViewById<EditText>(R.id.edtArtist)

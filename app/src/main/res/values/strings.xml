@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">InMusic Player</string>
+    <string name="display_songs">display_songs</string>
+    <string name="song_title">Song Title</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="rating_1_5">Rating (1–5)</string>
+    <string name="comment">Comment</string>
+    <string name="todo">TODO</string>
+    <string name="show_average_rating">Show Average Rating</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="output_will_appear_here">Output will appear here…</string>
+    <string name="average_rating">Average Rating:</string>
+    <string name="calculate_average">Calculate Average</string>
+    <string name="back">Back</string>
 </resources>

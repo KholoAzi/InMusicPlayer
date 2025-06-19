@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAdd" type="id">btnAdd</item>
+    <item name="btnDetails" type="id">btnDetails</item>
+    <item name="btnExit" type="id">btnExit</item>
+</resources>

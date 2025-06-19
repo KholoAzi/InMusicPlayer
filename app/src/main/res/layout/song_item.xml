@@ -6,8 +6,8 @@
 
     <ImageView
         android:id="@+id/songImage"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+        android:layout_width="138dp"
+        android:layout_height="217dp"
         android:layout_marginEnd="15dp"
         android:contentDescription="@string/todo"
         android:scaleType="centerCrop"

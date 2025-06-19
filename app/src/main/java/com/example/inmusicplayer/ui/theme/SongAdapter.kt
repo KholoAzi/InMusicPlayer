@@ -1,4 +1,4 @@
-package com.example.musicaapp.ui.theme
+package com.example.inmusicplayer.ui.theme
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -7,8 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.*
 import androidx.core.content.ContextCompat
-import com.example.musicaapp.MainActivity
-import com.example.musicaapp.R
+import com.example.inmusicplayer.MainActivity
+import com.example.inmusicplayer.R
+
 
 class SongAdapter(private val context: Context) : BaseAdapter() {
     override fun getCount() = MainActivity.songTitles.size
